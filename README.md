@@ -1,5 +1,5 @@
 <div>
-    <a target='_blank' href="https://instagram.com/H.e.r.c.o">
+    <a target='_blank' href="https://instagram.com/Hekc0">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a target='_blank' href="https://www.linkedin.com/in/ghp518/">
