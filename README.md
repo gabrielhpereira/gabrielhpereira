@@ -16,6 +16,6 @@ Meu nome é Gabriel. Eu atualmente moro em Jundiaí, São Paulo e estou em busca
 * **Idade**: 23
 * **Cidade**: Jundiaí, São Paulo
 * **Stack**: Java - SQL
-* **Faculdade**: 4° Semestre - Análise e Desenvolvimento de Sistemas - Fatec Jundiaí
+* **Faculdade**: 5° Semestre - Análise e Desenvolvimento de Sistemas - Fatec Jundiaí
 
 ![Snake animation](https://github.com/Hekco/Hekco/blob/output/github-contribution-grid-snake.svg)
