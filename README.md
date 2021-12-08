@@ -5,17 +5,17 @@
 </div>
 
 
-## Informação Publica
+## Public information
 
-Meu nome é Gabriel. Eu atualmente moro em Jundiaí, São Paulo e estou em busca de uma oportunidade para trabalhar como desenvolvedor java. 
+My name is Gabriel. I currently live in Jundiaí, São Paulo and am looking for an opportunity to work as a java developer.
 
 
-## Informação Detalhada
+## Detailed information
 
-* **Nome**: Gabriel Henrique Pereira  
-* **Idade**: 23
-* **Cidade**: Jundiaí, São Paulo
-* **Stack**: Java - SQL
-* **Faculdade**: 5° Semestre - Análise e Desenvolvimento de Sistemas - Fatec Jundiaí
+* **Name**: Gabriel Henrique Pereira  
+* **Age**: 23
+* **Living in**: Jundiaí, São Paulo
+* **Stack**: Java - Spring - MySql - Linux
+* **University**: 5° Half - Analysis and Systems Development
 
 ![Snake animation](https://github.com/Hekco/Hekco/blob/output/github-contribution-grid-snake.svg)
