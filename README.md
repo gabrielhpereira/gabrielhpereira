@@ -18,3 +18,4 @@ My name is Gabriel. I currently live in Jundiaí, São Paulo and am looking for 
 * **Stack**: Java - Spring - MySql - Linux
 * **University**: 5° Half - Analysis and Systems Development
 
+![Snake animation](https://github.com/Hekco/Hekco/blob/output/github-contribution-grid-snake.svg)
