@@ -8,6 +8,6 @@ My name is Gabriel. I currently live in Jundiaí, São Paulo and am looking for 
 * **Name**: Gabriel Pereira  
 * **Age**: 23
 * **Living in**: Jundiaí, São Paulo
-* **Stack**: Spring - Angular - MySql 
+* **Stack**: Java - Spring - MySql - Linux 
 
 ![Snake animation](https://github.com/Hekco/Hekco/blob/output/github-contribution-grid-snake.svg)
