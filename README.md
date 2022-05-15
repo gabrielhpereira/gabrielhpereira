@@ -19,9 +19,8 @@ Hi! I'm Gabriel, a java developer currently living in Jundiai, São Paulo. I'm p
 </div>
 <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gabrielhpereira&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielhpereira&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielhpereira&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
