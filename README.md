@@ -13,10 +13,6 @@ Hi! I'm Gabriel, a java developer currently living in Jundiai, São Paulo. I'm p
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 </p>
-<div align="center">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
 <br/>
 <p align="left">
 	<img width= "41.5%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhpereira&theme=github_dark&hide_border=true&layout=compact"/>
