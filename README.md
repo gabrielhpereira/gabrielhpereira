@@ -14,7 +14,7 @@ Hi! I'm Gabriel, a java developer currently living in Jundiai, São Paulo. I'm p
 </div>
 </p>
 <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+  <a href="https://open.spotify.com/track/2Y07pojl0DkC41zg0Vfvgo?si=caa56933b3b24447">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
