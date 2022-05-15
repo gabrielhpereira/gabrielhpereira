@@ -24,4 +24,4 @@ Hi! I'm Gabriel, a java developer currently living in Jundiai, São Paulo. I'm p
   </a>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielhpereira&repo=Crud_Spring_Mariadb&github-readme-stats&theme=github_dark&hide_border=true)](https://github.com/gabrielhpereira/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielhpereira&repo=Crud_Spring_Mariadb&github-readme-stats&theme=github_dark&hide_border=true)](https://github.com/gabrielhpereira//Crud_Spring_Mariadb)
