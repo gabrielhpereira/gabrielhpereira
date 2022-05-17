@@ -14,8 +14,4 @@ Hi! I'm Gabriel, a java developer currently living in Jundiai, São Paulo. I'm p
 </div>
 </p>
 <br/>
-<p align="left">
-	<img width= "41.5%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhpereira&theme=github_dark&hide_border=true&layout=compact"/>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gabrielhpereira&show_icons=true&theme=github_dark&hide_border=true" />
-  </a>
 </p>
